@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Investigating Speech Perception in Noise
-
-## Welcome!
+# Welcome!
 
 If you just signed up for the study "Investigating Speech Perception in Noise" on Sona, you are in the right place!  In order to send you a personal link to the study, please e-mail the researcher: <br>
 jessica [dot] alexander [at] utexas [dot] edu
