@@ -1,0 +1,7 @@
+title: Welcome
+description: you're in the right place!
+show_downloads: false
+theme: jekyll-theme-dinky
+
+plugins:
+  - jemoji
