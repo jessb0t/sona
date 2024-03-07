@@ -1,7 +1,8 @@
 title: Investigating Speech Perception in Noise
-description: 
-show_downloads: false
+# show_downloads: false
 theme: minima
+minima:
+    skin: classic
 
 plugins:
   - jemoji
